@@ -64,9 +64,9 @@ This command will start the Inventory Management App, and you can start managing
 Contributing:
 Contributions to the Inventory Management App are welcome! If you'd like to contribute, please follow these steps:
 
-Fork the repository.
-Create a new branch (git checkout -b feature/new-feature).
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature/new-feature).
-Create a new Pull Request.
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/new-feature).
+3. Make your changes.
+4. Commit your changes (git commit -am 'Add new feature').
+5. Push to the branch (git push origin feature/new-feature).
+6. Create a new Pull Request.
