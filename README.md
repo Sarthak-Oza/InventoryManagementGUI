@@ -11,7 +11,7 @@ Welcome to the Inventory Management App! This application is built in Python usi
 
 ## Demo:
 
-Unfortunately, there is no live demo available for this app as it is meant to be run locally on your machine.
+Follow the steps to set up the project locally. 
 
 ## Screenshots:
 
